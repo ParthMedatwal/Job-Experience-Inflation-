@@ -162,10 +162,15 @@ graph LR
     G --> H[SQL Queries<br/>queries.sql]
     H --> I[Power BI<br/>Dashboard]
     
-    style A fill:#ff6b6b
-    style E fill:#4ecdc4
-    style G fill:#45b7d1
-    style I fill:#f7dc6f
+    style A fill:#c0392b,stroke:#333,stroke-width:2px,color:#fff
+    style B fill:#34495e,stroke:#333,stroke-width:2px,color:#fff
+    style C fill:#34495e,stroke:#333,stroke-width:2px,color:#fff
+    style D fill:#34495e,stroke:#333,stroke-width:2px,color:#fff
+    style E fill:#16a085,stroke:#333,stroke-width:2px,color:#fff
+    style F fill:#34495e,stroke:#333,stroke-width:2px,color:#fff
+    style G fill:#2980b9,stroke:#333,stroke-width:2px,color:#fff
+    style H fill:#34495e,stroke:#333,stroke-width:2px,color:#fff
+    style I fill:#f39c12,stroke:#333,stroke-width:2px,color:#fff
 ```
 
 ### 📊 Processing Steps
