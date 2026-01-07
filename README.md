@@ -1,6 +1,6 @@
-# 💼 Job Experience Inflation Analysis
-
 <div align="center">
+
+# 💼 Job Experience Inflation Analysis
 
 ![Data Analysis](https://img.shields.io/badge/Data_Analysis-Career_Insights-blue?style=for-the-badge)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
